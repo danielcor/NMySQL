@@ -1,2 +1,2 @@
 # NMySQL
-Entity Framework 7 Connector for MySQL Databases
+.NET Connector for MySQL Databases
